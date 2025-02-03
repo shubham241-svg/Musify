@@ -1,4 +1,4 @@
-# Music Recommender System
+# Musify (# Music Recommender System)
 
 ## Overview
 
